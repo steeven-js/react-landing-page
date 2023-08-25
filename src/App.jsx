@@ -26,6 +26,6 @@ const App = () => (
       Footer
     </section>
   </main>
-);
+); 
 
 export default App
